@@ -1,0 +1,28 @@
+body{
+    background:greenyellow;
+}
+
+#score
+{
+    font-size:35px;
+    margin-left:20px;
+    }
+
+    #timer
+    {
+        font-size:35;
+        float:right;
+        margin-right:20px;
+    }
+
+    #sketch_name
+    {
+        color:crimson;
+
+    }
+    
+    h1{
+        font-family: cursive;
+        color:indianred;
+        background-color: lightgreen;
+    }
